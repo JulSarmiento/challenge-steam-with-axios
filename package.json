@@ -5,5 +5,24 @@
     "dotenv": "^16.0.3",
     "ora": "^6.1.2",
     "yargs": "^17.6.2"
-  }
+  },
+  "name": "challenge-axios-videogames",
+  "description": "Usando el api de steam, crea un script para listar juegos populares por categoría. Pasando como flag, la categoría. Retornas la lista empleando consolé.table()  Condiciones:  - Crear instancia de axios reutilizable para más consultas en steam.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulSarmiento/challenge-steam-with-axios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulSarmiento/challenge-steam-with-axios/issues"
+  },
+  "homepage": "https://github.com/JulSarmiento/challenge-steam-with-axios#readme"
 }
